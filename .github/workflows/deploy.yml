@@ -20,7 +20,6 @@ jobs:
     runs-on: ubuntu-22.04
     defaults:
       run:
-        # If your git root is lewagon-digitalbrain, uncomment the line below:
         working-directory: ./quartz
     steps:
       - uses: actions/checkout@v4
@@ -35,12 +34,11 @@ jobs:
         run: bun install --frozen-lockfile
 
       - name: Build Quartz
-        run: bun run quartz build
+        run: bun ./quartz/bootstrap-cli.mjs build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # If quartz is a subfolder from root, change to: quartz/public
           path: quartz/public
 
   deploy:
