@@ -34,7 +34,7 @@ jobs:
         run: bun install --frozen-lockfile
 
       - name: Build Quartz
-        run: bun run ./quartz/bootstrap-cli.mjs build
+        run: bun ./quartz/bootstrap-cli.mjs build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
