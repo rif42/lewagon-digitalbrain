@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/README.md",
+                "file": "quartz/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quartz/README.md",
+                "file": "quartz/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,9 +198,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4ca5152ea6a5c0e1",
+  "active": "b9b31e8858d144a9",
   "lastOpenFiles": [
+    "quartz/content/AGENTS.md",
     "quartz/content/index.md",
+    "quartz/README.md",
     "workflows",
     "quartz/content/knowledge_bank/Teacher Management/Teachers and TA’s onboarding course V1.md",
     "quartz/content/knowledge_bank/Teacher Management/Teacher Selection (Data).md",
@@ -225,8 +227,6 @@
     "quartz/content/knowledge_bank/Teacher Management/Explain how to read feedbacks to teacherstas.md",
     "quartz/content/knowledge_bank/Teacher Management/Enable Teachers to Cancel or Replace an Uploaded Invoice in Kitt.md",
     "quartz/content/knowledge_bank/Teacher Management/Early teacher feedback.md",
-    "quartz/content/knowledge_bank/Teacher Management/Deactivate teachers profile.md",
-    "quartz/content/knowledge_bank/Teacher Management/Create an online course to onboard teacher assistants.md",
     "quartz/content/knowledge_bank/Teacher Management",
     "quartz/content/knowledge_bank/Student Management",
     "quartz/content/knowledge_bank/Sales & Admissions",
