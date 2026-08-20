@@ -1,0 +1,224 @@
+OK	# - FT DS   _ Notion.mhtml	16f8924af01480fb86d4d768c51086f2
+FAIL	Program management Agents database _ Notion.mhtml	D:\life\Work\Clients\lewagon\notionscrape\new_notion_pages_batch2\Program management Agents database _ Notion.mhtml
+OK	2022 Marketing Recap _ Notion.mhtml	f1d451cb245a42968685a3ebbf818135
+FAIL	Program management AI database _ Notion.mhtml	D:\life\Work\Clients\lewagon\notionscrape\new_notion_pages_batch2\Program management AI database _ Notion.mhtml
+OK	2023 Marketing Recap _ Notion.mhtml	4cbef6b659414d1c81ee6c110da8be74
+OK	Q4 - Online _ Notion.mhtml	D:\life\Work\Clients\lewagon\notionscrape\new_notion_pages_batch2\Q4 - Online _ Notion.mhtml
+OK	2025 Marketing recap _ Notion.mhtml	2ce8924af01480c6b388d7d036fa62a9
+OK	@Malt X Le Wagon _ Notion.mhtml	8ac0a5211b284b30bddfecfff8bb5a7d
+OK	Q4 - PARIS Data Engineering _ Notion.mhtml	D:\life\Work\Clients\lewagon\notionscrape\new_notion_pages_batch2\Q4 - PARIS Data Engineering _ Notion.mhtml
+OK	[Kitt] Offboarding of a student _ Notion.mhtml	2e27e45ae18a42b3927343df833ec173
+OK	Qualification (WIP) _ Notion.mhtml	D:\life\Work\Clients\lewagon\notionscrape\new_notion_pages_batch2\Qualification (WIP) _ Notion.mhtml
+OK_DB	[Old] Program management Prompts database _ Notion.mhtml	fcc531e74cf5463bb7c58341a6053058
+OK	Add a button “reopen session” in Assess _ Notion.mhtml	37a8924af014803a913ae2e650223ab0
+OK	Additional student flag types _ Notion.mhtml	88ebb082064e49cea77d9169ab279178
+OK	Admissions Process for Data Analytics _ Notion.mhtml	3d19388e99d84c6c9887bd7d4c31d9b6
+OK	AI & CRM _ Notion.mhtml	1788924af014804187ece98e922f0503
+OK	AI Chatbot – Official documentation _ Notion.mhtml	24f8924af01480fbb203c40de9546e5e
+OK	Ai powered content Library _ Notion.mhtml	2338924af014803d8880c5bb8cd30a88
+OK	AI Product Builder - Campaign Launch _ Notion.mhtml	33b8924af0148020801cde63f71f46a8
+OK	AI Product Builder - Examen de Certification - Guide de correction _ Notion.mhtml	3758924af01480e18311ffa29cf6c4a8
+OK	All CRM & OPS Visual Maps _ Notion.mhtml	17b8924af0148051a226e30a1d02c963
+OK	Allo Issue _ Notion.mhtml	3488924af01480b3a236d70fcdee19f7
+OK	Allow teachers to cancel _ update pending invoices _ Notion.mhtml	2998924af014804b992fe6353052cf2a
+OK	Alumni, Recruiters & Tech Leader Tracker _ Notion.mhtml	88159571f17a487a8b99acbf4f29b48e
+OK_DB	Analysis x Marketing _ Notion.mhtml	1e38924af014808cad67d806dc347f2a
+OK	Anne Dumas _ Notion.mhtml	15a8924af014818b8cd6f7aa75e02835
+OK	At-risk Student Tracking _ Notion.mhtml	7d9bd20e151043bda3e2a5e6cc784159
+OK	Audience _ Notion.mhtml	1468924af01480a2b9b4f8c87376baba
+OK	Automatic Prep-Work Reminders - Text & Copy _ Notion.mhtml	481352e9a4814ede9a4c1dc8267adea4
+OK_DB	Automations _ Notion.mhtml	23f8924af014807ab9f3cfa6d7218c7d
+OK	B2C Ops x Content - Notes & Requirements _ Notion.mhtml	4a0f2a402e574787bad27ed366bf6a28
+OK	Bank of pictures _ Notion.mhtml	503b865bdab846db9e0389e3d516b189
+OK	Baptiste Derenne _ Notion.mhtml	15a8924af01481b8a11ef409d9cb449e
+OK_DB	Batch Handover Database Template _ Notion.mhtml	5ffec234d811414da116da9ac2c3da95
+OK_DB	BattleCards _ Notion.mhtml	3458924af01480a09d83dba30b09ed28
+OK_DB	Best practices _ Notion.mhtml	17e8924af0148024abf4e89520a14e6e
+OK_DB	Blockers Database _ Notion.mhtml	0361aeb9c5754a66ab9e7ac77148c80b
+OK	Brand Platform _ Notion.mhtml	6ab9f0c4b21f4c8984ef252e4c05230b
+OK	Brand Videos & Video shoot guidelines _ Notion.mhtml	ee6be5fd953c423fb2aded32f5de75b2
+OK	Calendly - Setup & Guide _ Notion.mhtml	65495301092a490daf05ed13bad8add0
+OK	Calendly Events _ Notion.mhtml	27d8924af01480d19e23d5850a2d265c
+OK_DB	Campaigns Deliverables _ Notion.mhtml	2738924af0148000ba9be1a5bc5d85d7
+OK	Campus branding guidelines _ Notion.mhtml	c744a205e7d8414daa469fea43c9bfcc
+OK	Career Services Policy.mhtml	982931ba45964901a24c48d9fc4c296e
+OK_DB	Careers Team Europe _ Notion.mhtml	dbfeff41988247319fd0aae614708d9b
+OK	Central _ campaign calendar _ Notion.mhtml	17a8924af01480868a8ace2270d00937
+OK	Central Content Production Workflow _ Notion.mhtml	7cd83926ecda448c97dcce5daa5dd9f8
+OK	City Yellow Flags + Opportunities Template _ Notion.mhtml	6c6510fa591d484195f32e8e4607e2dc
+OK	Cold Email Suggestions for Outreach _ Notion.mhtml	2ef8924af01480d88f39d2383992d21e
+OK	Collect age in ATS via Docusign _ Notion.mhtml	287fbdfb0c8742e1ad89c6532306043e
+OK_DB	Contact - Global Partners _ Notion.mhtml	3058924af01480e2a308dbb04670533d
+OK	Content Engine I 2025 _ Notion.mhtml	a2179b71b15644baafaee7555d54d218
+OK	CRM & Ops __ Sales & Admission _ Notion.mhtml	26a39940d4424676a40ec5a3c1f19a77
+OK_DB	CRM & Ops documentation _ Notion.mhtml	1378924af01480699824c215200547f9
+OK	CRM & Ops framing sessions _ Notion.mhtml	dde4c3f5f337440788f198882083f6ba
+OK	CRM & Ops Squad Doc _ Notion.mhtml	1788924af0148088974ce8b5225f9078
+OK	Crm & Ops’s missions & Structure _ Notion.mhtml	1468924af014802da33be500be718859
+OK	CRM & RevOps - Strategy Roadmap _ Notion.mhtml	16c8924af0148066b0ccf18052573e21
+OK	CRM __ Acquisition _ Notion.mhtml	1548924af014804ba563fec9cc925b6b
+OK	CRM Campaigns Hub _ Notion.mhtml	1528924af01480719bf5e3592a536d79
+OK	CRM Ops - Ongoing updates _ Notion.mhtml	1858924af014802aba97cf96c367b3fc
+OK	Data Science & AI _ Notion.mhtml	6802d65206f34512a94a048532e4529c
+OK_DB	Data Science - Daily Timeline _ Notion.mhtml	a9dddf9762094142961f93a9b83875c8
+OK	Deactivate teacher profiles _ Notion.mhtml	1fc8924af014804fac3cf27682eafdcc
+OK	Demo Day Tracker_ source your city’s best projects _ Notion.mhtml	2a1ed8044afa45629db8f21cdfb607fb
+OK	Deposit Amount Variable _ Notion.mhtml	c16d8fcde93b4a0795201839118431ed
+OK	Design Guidelines _ Notion.mhtml	1a9229bab90443009418dc5fd1df2f8c
+OK	Detailed Persona & Messaging Guide _ Notion.mhtml	2708924af01481948fdbf8a58be87809
+OK	Diana Baleya _ Notion.mhtml	15a8924af014815aade9c2a0c7f00dd6
+OK	Display students birthdays in batch calendar events _ Notion.mhtml	2aa8924af01480fb9605f19c51402eea
+OK	Draft Form for testing YAML without db_forms files _ Notion.mhtml	5007b3e3816e4fdcbad012ff182b2861
+OK	Elena Bonhomme _ Notion.mhtml	15a8924af01481788f8bdbbbacbe52d3
+OK	Email Templates (Sales, MKT, Admissions) _ Notion.mhtml	5ec4f14f68d94e778436eded34023a4d
+OK	Email translation _ Notion.mhtml	1c38924af014805e9907d5dd3421ccbd
+OK	Emailing _ Notion.mhtml	1468924af014809ea6bfe2797da9ada2
+OK	Enhance student tickets activity dashboard for PT students _ Notion.mhtml	26a8924af0148074aac5cbd20607c57e
+OK	Events - The basics _ Notion.mhtml	69fcd2517d66436eb5cee75547512ae6
+OK	Events Hub _ Notion.mhtml	1c88924af01480d3918dedcb761f68b5
+OK	Export Certification Eligible Students _ Notion.mhtml	3748924af01481c9829ddce3bcb2728d
+OK	Expose challenge completion to students _ Notion.mhtml	1f98924af014804e82f0e5a7f9894f4c
+OK	Extend student flags display _ Notion.mhtml	dfd02c04d03d4518b6a0c750c9e957d3
+OK_DB	Extra learning resources for students _ Notion.mhtml	305e847af8014660a29a4b40268aa73f
+OK	FAQ _ Notion.mhtml	06e39e4dabb54899a20799a6177fe963
+OK	FAQ Careers _ Notion.mhtml	127cb0d72f5a48ecbc4966d7ce2ead42
+OK	Find my course _ Notion.mhtml	24f8924af01480d4ab7de832688de614
+OK	Forms - The Basics _ Notion.mhtml	1468924af0148037a1c5c7e1d8b3826a
+OK	Francesca Chong _ Notion.mhtml	15a8924af01481f89bfee67ba17f16d9
+OK	full_time _ Notion.mhtml	a2d48415d363474c81feb0def4ea76d7
+OK	Getting started with Career Services _ Notion.mhtml	5062be37dc6e45abad6a02e12348636b
+OK	Global Editorial Strategy I 2024 _ Notion.mhtml	f25c9f0d8603444381cc742b61d660c1
+OK	Global Metrics _ Notion.mhtml	17a8924af01480488202d9c9798833fe
+OK_DB	Global Partners _ Notion.mhtml	2ed8924af01480ffa266dfd3c83fd407
+OK	Glossary and Editorial Rules _ Notion.mhtml	d8b95e55fc8d439296a9d2d1cd06b1b5
+OK	Google Ads _ Notion.mhtml	1998924af01480d783b1c7b3b8bee128
+OK	Grid Email Variables _ Notion.mhtml	e8db126f1cf34980aebd8c2509af18c4
+OK	Guide_ Running a Career Event (F) _ Notion.mhtml	57f3e1cb3cf440e2a24e63ac0211131b
+OK	H2 - Nantes _ Notion.mhtml	ec3127dd56a443558f77766418759bac
+OK	H2 - Online _ Notion.mhtml	8c12715bc0e947199498d1ca7aa12be6
+OK	H2 - Rennes _ Notion.mhtml	95be93c82836465bbb77f8142908f17b
+OK	H2 2023 - Porto _ Notion.mhtml	d7fd3d013136457f91a41c1f7b7f952e
+OK	H2 2023 - Shanghai _ Notion.mhtml	8c218d3164334900893288a1319a4120
+OK	H2 2023 - Sydney _ Notion.mhtml	e17ab01e399c429fad01e5147b7ff7a5
+OK	H2 2024 - Toulouse _ Notion.mhtml	ad0db8e359a24096985aee0bef1f64c7
+OK	How to add a new syllabus_ _ Notion.mhtml	13d8924af0148062bba5d45854dc2939
+OK	How to analyze UK GOV Results _ Notion.mhtml	1a08924af01480639fd2f62751d4ffd9
+OK	How to assess candidates_ _ Notion.mhtml	53c99fe3c1ac4077ab34bc0989ab9d58
+OK	How to create an Embedded Apply Form _ Notion.mhtml	f5fdecf66d3643c1a66b6d4f6231d083
+OK	How to create an exam session_ _ Notion.mhtml	751ee92513854a61b50686e5921cead8
+OK	How to create events on Eventbrite & www _ Notion.mhtml	8fe689b201c3435b944c2bf7570b0d77
+OK	How to get alumni testimonials _ Notion.mhtml	7bcc6dd8e5d04bbeabbceac404bafdba
+OK	How to get reviews, testimonials & endorsements for our bootcamp _ Notion.mhtml	8b9f8fbc979e46dda931a8815b1dd171
+OK	How to link your Eventbrite token to your city _ Notion.mhtml	2d64120613a04d719ff0975f487cd364
+OK	How to offboard a students from Kitt _ Notion.mhtml	1c08924af014805782b1d3d21ae1596f
+OK	How to onboard a candidate_ _ Notion.mhtml	9e1d376be66142679b6de32d43881b2c
+OK	How to onboard a juror_ _ Notion.mhtml	0d221d8e9280439eac07977ae06dd3a7
+OK	How to perform explorative interviews _ Notion.mhtml	89049826f40f470fa962f97f58538f4c
+OK	How to Preview Content Changes on Kitt_.mhtml	154a2295353444158acf1e5cf12731df
+OK	How to Process Affiliation Referrals _ Notion.mhtml	2018924af01480ff9e93d8fb2623ba89
+OK	How to run a session_ _ Notion.mhtml	7dfc94fd3a264a20a8f253b732a6dd4a
+OK	How to schedule TAs _ Notion.mhtml	91f04acd071f4725a2a9b2041e9614e4
+OK	How to use AI for marketing content _ Notion.mhtml	546bb21438f94ddab456448773f3c1a6
+OK	Hubspot _ Key properties _ Notion.mhtml	1788924af01480efac75c739f951feee
+OK	Hubspot Module - AI knowledge _ Notion.mhtml	38b8924af0148001bebfd36302deb2d0
+OK	Huntr guide for coaches (F) _ Notion.mhtml	c1b0ec348ca946eda14db266cc8e794d
+OK	Import _ Notion.mhtml	1468924af0148009ae6cf62286985952
+OK_DB	Initiatives - Global Partners _ Notion.mhtml	2ed8924af01480198447f676f2446e4a
+OK	Internal Bitly Alternative (lew.ag) _ Notion.mhtml	1988924af0148068ac8dde29aba3321f
+OK	Internal CRM Tutorials _ Notion.mhtml	1a58924af01480768cfde6dff56d2276
+OK	Jérôme Schorgen _ Notion.mhtml	15a8924af0148168a7b8ec3f362d2295
+OK	Key figures _ Notion.mhtml	1f38924af014808cbd50df18e1233e90
+OK	Landing pages library _ Notion.mhtml	0b0d8c13926446118410a4acf94355f0
+OK	Le Wagon _ Discount - Terms & Conditions Hub _ Notion.mhtml	1d98924af014802fa03bfcfe56e911f5
+OK	Le Wagon Chatbot AI – Feedback Collection _ Notion.mhtml	1d58924af014807cb295e5e160f7840c
+OK	Le Wagon Description _ Notion.mhtml	971815b5f569400d925193bd34993d13
+OK	Le Wagon Wishlist [WIP] _ Notion.mhtml	bd2c0a31110c4db183bc13eafed6d264
+OK	Le Wagon's Teaching Test (Web) _ Notion.mhtml	f595aa45e9654792bb7ce615f5fd377e
+OK	Lead Scoring (WIP) _ Notion.mhtml	1858924af01480298c12f99efaa255cb
+OK	Lead Teacher Job Description (Web) _ Notion.mhtml	38e09cde8aba4ff09804024613cb4649
+OK	Lead teacher onboarding learn course - Playbook _ Notion.mhtml	86d45e3d7b98423d8d3d8596c78e6eb6
+OK	Learn - Terms of use _ Notion.mhtml	3838924af014803f80a3cc536e646468
+OK	Live Workshop Plan - Elevator pitch.mhtml	4603ee81e0094341bcd099c3f9546145
+OK	Main Tools and Use Cases _ Notion.mhtml	0200aa9516e546128612bebbfd976bd5
+OK	Marketing AI Resources _ Notion.mhtml	1c48924af01480ea9962ea07fad2205c
+OK	Marketing Content Library _ Global Overview _ Notion.mhtml	14d920c1390d48cbb2557104fe8b1c20
+OK	Marketing Initiatives _ Notion.mhtml	17e8924af01480619949c0862f70ff66
+OK_DB	Marketing note releases _ Notion.mhtml	1d18924af0148000bbc4db12cd355780
+OK	Marketing Support for Le Wagon Partners _ Notion.mhtml	1818924af01480a2974bfe55fd73a058
+OK	María Jesús Torres Loosli _ Notion.mhtml	15a8924af01481be9c0ccdb4c207276c
+OK	Meta Ads _ Notion.mhtml	1998924af0148066bbbbfdbd20ab4870
+OK	New Batch Managers staffing guidelines _ Notion.mhtml	edb75349c81a48b5905d1793896732d7
+OK_DB	New database _ Notion.mhtml	1c18924af01481f6b55ec8bdc1439d0d
+OK	New notion for bootcamp operations _ Notion.mhtml	75228df4f5344b86bb85361038cece93
+OK	New page _ Notion.mhtml	65115d633b3345d4b7bf7818f3e2d893
+OK	New “Get help with disruptive students_Graduates” support link _ Notion.mhtml	f2592dcc8d1842f79e0cc6fc289404ea
+OK	Notify disability referent of RQTH candidates _ Notion.mhtml	2a08924af014804f948be4c138b2451e
+OK	Notify online lectures & livecode on Slack _ Notion.mhtml	2238924af01480f490edc455d8bbbff7
+OK_DB	Notion shortcuts _ Notion.mhtml	1c18924af014813fbc01cec36fd9297f
+OK_DB	Notion.mhtml	bb4adac8ba9843fb9be196e58e8ce838
+OK	NPS Analysis _ Notion.mhtml	13e8924af0148008b502db1677454c84
+OK	NPS Analysis Q2 2025 _ Notion.mhtml	2188924af01480869414da529658d34a
+OK	NPS Analysis Q3 2025 _ Notion.mhtml	2708924af0148007b379d806d34da9f3
+OK	NPS Analysis Q4 2025 _ Notion.mhtml	2e88924af01480d78cc2ea819aee2ca6
+OK	Official Documentation Hub - CRM & OPs _ Notion.mhtml	17a8924af01480708c5fe0bd1fc6860a
+OK	Onboarding _ Notion.mhtml	1468924af01480db9ebdd8861b09d1fd
+OK	Onboarding new Teachers _ Notion.mhtml	2344c2e2d84841089965c659abb727ea
+OK	Ops Community survey _ Notion.mhtml	50f0b57dfd0b48f896698c0a6400f16b
+OK	Orlane Lagogué _ Notion.mhtml	15a8924af01481b5b857fbcbfa9820f5
+OK	Overview of Career Services _ Notion.mhtml	1dd8924af014807eb097f6642ec7a45f
+OK	Paid Ad Templates_ Playbook _ Notion.mhtml	77627caf77a24bf68611c5cf25ef867b
+OK	part_time _ Notion.mhtml	b80f71caf6f540e1abf7bb9375dcfcdf
+OK	Partnering with Le Wagon.mhtml	1ae8924af014807fb555dc4b594045e8
+OK	Photos & Photoshoot guidelines _ Notion.mhtml	2f2fc46be049480886911faeef539e91
+OK	Popup plan _ Notion.mhtml	1b38924af014802b9350f15a483663ee
+OK	Presentations for Students _ Notion.mhtml	9a15b84323da41f2bb3d7cbe249d6af5
+OK	Previewing a syllabus on Kitt _ Notion.mhtml	13d8924af0148001b57df50ad0863251
+OK	Printing Guidelines _ Notion.mhtml	2858924af01480ad84b2cb2fe608dd37
+OK	Product Marketing Wiki _ Notion.mhtml	097287878bdf4958abc305ae88b54ca9
+OK_DB	Program management Agents database _ Notion.mhtml	1631e9b1800643cabf6ab5b742a20499
+OK_DB	Program management AI database _ Notion.mhtml	b691cb867c9f4a4fb4ad2fddb3e92a29
+OK	Q4 - Online _ Notion.mhtml	6eb41ce6dee7431fa2ab334ac3143a8f
+OK	Q4 - PARIS Data Engineering _ Notion.mhtml	7274798499c84f8c9c5b648b0925e40e
+OK	Qualification (WIP) _ Notion.mhtml	1858924af014802ebad3fa2e4e2627e4
+OK	Rebecca Christophersen _ Notion.mhtml	1dd8924af014809e8b03f4c30ac59822
+OK_DB	Recruitment steps _ Notion.mhtml	1fc8924af0148002a5e3c378433a77e6
+OK	Redeem Claude Code Max coupons _ Notion.mhtml	2ac8924af01480ab8838d59139a3a716
+OK	Referral program [Old] _ Notion.mhtml	715ad649eb8f4994a91941a8c714762c
+OK_DB	Releases _ Notion.mhtml	0904ef74b8e44a10bc0071469e34f317
+OK	Remote Bootcamp Operations _ Notion.mhtml	f34bbe957f8e4956bbda781e59a04d17
+OK	Remote video interview guidelines _ Notion.mhtml	2188924af014802b9239fcf680469bcd
+OK	Required teaching contracts _ Notion.mhtml	2238924af014804f90b3e327fc70eafd
+OK	Revenue ops - HUB _ Notion.mhtml	2e18924af0148070895ac6f636391888
+OK	Revenue Team Launch Sep 2025 _ Notion.mhtml	2468924af01480619022c1f13f5206bb
+OK	Running a webinar.mhtml	093891cede6e438886da41cf36bacc76
+OK_DB	S&A __ PM Handover Processes - Full Task List _ Notion.mhtml	b017797ecb334529866c1f451d3780fe
+OK	SA __ Ops Handover - Extract Key Info in CSV _ Notion.mhtml	f1768815202244d58851f1e536a6900e
+OK	Sales Ops Dashboard_reports _ Notion.mhtml	1e38924af01480a9898cc353b34fd61f
+OK	Search students by name in Learn batches _ Notion.mhtml	30d8924af01481778d91e9889f1820f6
+OK	Sending Grouped Emails + Prep-Work Nagging Templates _ Notion.mhtml	10a3e1858eb94cea8a549cbb05bc4813
+OK	Setting Up a Partnership (with revenue compensation) in the CRM _ Notion.mhtml	1a78924af0148006b805ff130f695bb6
+OK	Short-form video _ In-house video guidelines _ Notion.mhtml	27a8924af01480ea9aafdcd9c710f783
+OK	Slack channel Sales _ Notion.mhtml	1d88924af01480bdadaade82a266507a
+OK	Social Post Library (WIP) _ Notion.mhtml	32c8924af01480c1a142f757c9e5b428
+OK	Students Onboarding Documentation _ Notion.mhtml	1c08924af01480088562c9d474fa8508
+OK	Sunsetting Minijobbers _ Notion.mhtml	9a4e9ceb87c247c9ad21ef295fe6b2e6
+OK	Syllabus & LP _ Notion.mhtml	1468924af01480edaba6f16a72be45ff
+OK	Targets 2027 - 2029 _ Notion.mhtml	3988924af0148033aa3dfb1c00b72d15
+OK	Teacher Selection (Data) _ Notion.mhtml	144fa0a1933e483fabd5b30fd7303256
+OK	Team CRM & Ops ’s Teams members _ Notion.mhtml	973e2c38963a4775be6b075dc37a8799
+OK	Team CRM & Ops’s OKRs _ Notion.mhtml	17e8924af0148040b6ecf2bcafbb37d7
+OK	Tech framing session _ Notion.mhtml	1468924af01480458714d816a64199f5
+OK	Templates & creative assets _ Notion.mhtml	736cb7d522984a39a808dcf4ca7c2cfc
+OK	Training sessions _ Notion.mhtml	1468924af01480369aa2c427c7b11c5d
+OK	Tripartite Training Agreements _ Notion.mhtml	7df423c3dbc94999816e5b4d2d6dc741
+OK	UI Kit _ Notion.mhtml	1828924af0148030a460f14a00ae09a7
+OK	Updated student’s laptop requirements _ Notion.mhtml	ded0383f8a384d7082fd2a0599dda9f5
+OK_DB	Upskilling Programs _ Notion.mhtml	d1a95ed119be4c7f9623fc8418bb8814
+OK	Vertical page process _ Notion.mhtml	8312e418fc984a258cc406a9307e7cb9
+OK_DB	View of Bootcamp Syllabi _ Notion.mhtml	34c8924af0148122b1afd6443f0c694e
+OK_DB	View of Marketing Initiatives _ Notion.mhtml	2a38924af01480c7b7e2c6719f83d5a8
+OK	Vérification Ponctualité Batchs Paris _ Notion.mhtml	3358924af014802eabc9d9a1aa17ab3a
+OK	Warm-up _ Prep work - Updated Link List _ Notion.mhtml	6a8954b16a1c4d10b5c344a4c57a0b37
+OK_DB	Web FT - Daily Timeline _ Notion.mhtml	959080686c9440029e73333897347d91
+OK	Welcome Guide_ Full-Time Web Development Bootcamp.mhtml	18e51a9755394e4a922b2019d940df6d
+OK	What is the Data Analytics Bootcamp_ _ Notion.mhtml	8fab611993db4bbcbceb6163b41ca4b9

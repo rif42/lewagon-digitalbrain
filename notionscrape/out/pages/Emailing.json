@@ -1,0 +1,23 @@
+{
+  "title": "Emailing",
+  "notion_id": "1468924af014809ea6bfe2797da9ada2",
+  "source_url": "https://app.notion.com/p/lewagon/Emailing-1468924af014809ea6bfe2797da9ada2",
+  "block_counts": {
+    "text": 59,
+    "column_list": 2,
+    "column": 4,
+    "table_of_contents": 1,
+    "transclusion_reference": 2,
+    "callout": 3,
+    "header": 1,
+    "image": 2,
+    "sub_header": 3,
+    "video": 3,
+    "toggle": 1,
+    "sub_sub_header": 2,
+    "to_do": 8
+  },
+  "unhandled_types": [
+    "transclusion_reference"
+  ]
+}

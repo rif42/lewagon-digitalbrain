@@ -1,0 +1,219 @@
+--- CV 0 ---
+<div class="notion-selectable notion-collection_view-block" data-block-id="c24cf1e2-a16d-476a-9c37-f876d357d45c" dir="ltr" style="width: 100%; max-width: 100%;">
+ <div style="display: contents;">
+  <div style="position: relative;">
+   <div class="xjp7ctv" data-popup-origin="true">
+    <div>
+    </div>
+   </div>
+  </div>
+  <div contenteditable="false" data-content-editable-void="true" style="min-height: 40px; padding-inline: 1px; width: 100%; position: relative; inset-inline-start: -1px; flex-shrink: 0;">
+   <div class="notion-selectable notion-collection_view-block" data-block-id="c24cf1e2-a16d-476a-9c37-f876d357d45c" dir="ltr" style="position: relative;">
+    <div style="display: flex; align-items: center; height: 40px; inset-inline-start: 1px; width: 100%;">
+     <div style="flex-grow: 1; min-width: 0px;">
+      <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding-top: 4px; padding-bottom: 4px; padding-inline: 8px 0px;">
+       <div style="display: flex; align-items: center; min-width: 0px; flex: 1 1 0%; overflow: hidden;">
+        <a class="x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq" href="https://app.notion.com/p/lewagon/c24cf1e2a16d476a9c37f876d357d45c?v=a9b6e60e63bc49ab873bbbd5efa321ea&amp;pvs=18" rel="noopener noreferrer" role="link" style="display: flex; align-items: center; min-width: 0px; width: 100%; max-width: 100%; margin-inline-end: 4px; padding-inline: 4px; border-radius: 6px;">
+         <div style="position: relative; width: 24px; height: 24px; margin-inline-end: 4px; display: flex; align-items: center; justify-content: center;">
+          <div class="notion-record-icon notranslate" style="display: flex; align-items: center; justify-content: center; height: 22px; width: 22px; border-radius: 0.25em; flex-shrink: 0; margin-inline-end: 4px;">
+           <div style="display: flex; align-items: center; justify-content: center; height: 22px; width: 22px; flex-shrink: 0;">
+            <div data-darkreader-inline-color="" style="height: 15.4px; width: 15.4px; font-size: 15.4px; line-height: 1; margin-inline-start: 0px; color: var(--c-regEmoCol); --darkreader-inline-color: var(--darkreader-text--c-regEmoCol, var(--darkreader-text-000000, #e8e6e3));">
+             <img alt="🫧" class="notion-emoji" data-darkreader-inline-bgcolor="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style='width: 100%; height: 100%; background: url("/images/emoji/twitter-emoji-spritesheet-32.0e67dbfc.webp") 91.6667% 31.6667% / 6100% 6100%; --darkreader-inline-bgcolor: initial;'/>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div>
+          <div class="x78zum5" style="align-items: center;">
+           <div class="notranslate" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 24px; line-height: 31.2px; font-weight: 600; min-width: 0px; max-width: 100%; width: 100%; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; margin-inline-end: 4px;">
+            Product &amp; Ops Updates
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+      </div>
+      <div style="padding-inline-start: 4px;">
+      </div>
+     </div>
+     <div style="height: 100%; flex-grow: 1; padding-inline-end: 8px; opacity: 1; transition: opacity 100ms ease-in-out;">
+      <div style="height: 100%; display: flex; flex-direction: row; justify-content: end; align-items: center; opacity: 1;">
+       <div class="xjp7ctv" data-popup-origin="true">
+       </div>
+       <div class="xjp7ctv" data-popup-origin="true">
+        <div class="xjp7ctv" data-popup-origin="true">
+         <div style="position: relative;">
+          <div aria-expanded="false" aria-haspopup="dialog" aria-label="Filter" class="x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13 notion-collection-filter" data-darkreader-inline-color="" data-darkreader-inline-fill="" role="button" style="--x-color: var(--c-texPri); --x-l5dkfo: transparent; --x-8zloot: var(--ca-bacTerTra); --x-13727ff: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); --x-ph3bdx: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 2))); --x-pjywqs: var(--ca-bacTerTra); --x-ovxak1: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); display: flex; align-items: center; font-size: 14px; padding: 6px; height: 28px; width: 28px; color: var(--c-texSec); fill: var(--c-icoSec); font-weight: 400; line-height: 1; border-radius: 6px; --darkreader-text--x-color: var(--darkreader-text--c-texPri); --darkreader-bg--x-l5dkfo: var(--darkreader-background-00000000, rgba(0, 0, 0, 0)); --darkreader-bg--x-8zloot: var(--darkreader-bg--ca-bacTerTra); --darkreader-bg--x-ph3bdx: var(--darkreader-background-010001, #010001); --darkreader-bg--x-pjywqs: var(--darkreader-bg--ca-bacTerTra); --darkreader-inline-color: var(--darkreader-text--c-texSec, var(--darkreader-text-000000, #e8e6e3)); --darkreader-inline-fill: var(--darkreader-text--c-icoSec, var(--darkreader-text-000000, #e8e6e3));" tabindex="0">
+           <svg aria-hidden="true" class="filterSmall x1lliihq x2lah0s x1kky2od xlup9mm x19zyb68 x14rh7hd" data-darkreader-inline-fill="" role="graphics-symbol" style="--x-fill: var(--c-icoSec); --x-color: var(--c-icoSec); width: 16px; height: 16px; fill: var(--c-icoSec); --darkreader-text--x-fill: var(--darkreader-text--c-icoSec); --darkreader-text--x-color: var(--darkreader-text--c-icoSec); --darkreader-inline-fill: var(--darkreader-text--c-icoSec, var(--darkreader-text-000000, #e8e6e3));" viewbox="0 0 16 16">
+            <path d="M2.4 3.7a.7.7 0 1 0 0 1.4h11.2a.7.7 0 1 0 0-1.4zm9.5 3.594H4.1a.7.7 0 1 0 0 1.4h7.8a.7.7 0 1 0 0-1.4M5.8 10.9a.7.7 0 1 0 0 1.4h4.4a.7.7 0 1 0 0-1.4z">
+            </path>
+           </svg>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="xjp7ctv" data-popup-origin="true">
+        <div class="xjp7ctv" data-popup-origin="true">
+         <div style="position: relative;">
+          <div aria-expanded="false" aria-haspopup="dialog" aria-label="Sort" class="x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13 notion-collection-sort" data-darkreader-inline-color="" data-darkreader-inline-fill="" role="button" style="--x-color: var(--c-texPri); --x-l5dkfo: transparent; --x-8zloot: var(--ca-bacTerTra); --x-13727ff: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); --x-ph3bdx: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 2))); --x-pjywqs: var(--ca-bacTerTra); --x-ovxak1: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); display: flex; align-items: center; font-size: 14px; padding: 6px; height: 28px; width: 28px; color: var(--c-texSec); fill: var(--c-icoSec); font-weight: 400; line-height: 1; border-radius: 6px; --darkreader-text--x-color: var(--darkreader-text--c-texPri); --darkreader-bg--x-l5dkfo: var(--darkreader-background-00000000, rgba(0, 0, 0, 0)); --darkreader-bg--x-8zloot: var(--darkreader-bg--ca-bacTerTra); --darkreader-bg--x-ph3bdx: var(--darkreader-background-010001, #010001); --darkreader-bg--x-pjywqs: var(--darkreader-bg--ca-bacTerTra); --darkreader-inline-color: var(--darkreader-text--c-texSec, var(--darkreader-text-000000, #e8e6e3)); --darkreader-inline-fill: var(--darkreader-text--c-icoSec, var(--darkreader-text-000000, #e8e6e3));" tabindex="0">
+           <svg aria-hidden="true" class="arrowUpDownSmall directional-icon x1lliihq x2lah0s x1kky2od xlup9mm x19zyb68 x14rh7hd" data-darkreader-inline-fill="" role="graphics-symbol" style="--x-fill: var(--c-icoSec); --x-color: var(--c-icoSec); width: 16px; height: 16px; fill: var(--c-bluIcoAccPri); transform: rotate(180deg); --darkreader-text--x-fill: var(--darkreader-text--c-icoSec); --darkreader-text--x-color: var(--darkreader-text--c-icoSec); --darkreader-inline-fill: var(--darkreader-text--c-bluIcoAccPri, var(--darkreader-text-000000, #e8e6e3));" viewbox="0 0 16 16">
+            <path d="M11.348 2.672a.625.625 0 0 0-.884 0L7.666 5.471a.625.625 0 1 0 .884.883l1.731-1.73v8.262a.625.625 0 1 0 1.25 0V4.623l1.732 1.731a.625.625 0 0 0 .884-.883zM5.093 2.49a.625.625 0 0 0-.625.624v8.263L2.737 9.646a.625.625 0 1 0-.884.883l2.798 2.799c.244.244.64.244.884 0l2.798-2.798a.625.625 0 0 0-.884-.884l-1.73 1.73V3.115a.625.625 0 0 0-.626-.625">
+            </path>
+           </svg>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="xjp7ctv" data-popup-origin="true">
+        <div aria-label="Automations" class="x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13 notion-collection-automation-edit-view" data-darkreader-inline-color="" data-darkreader-inline-fill="" role="button" style="--x-color: var(--c-texPri); --x-l5dkfo: transparent; --x-8zloot: var(--ca-bacTerTra); --x-13727ff: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); --x-ph3bdx: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 2))); --x-pjywqs: var(--ca-bacTerTra); --x-ovxak1: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); display: flex; align-items: center; font-size: 14px; padding: 6px; height: 28px; width: 28px; color: var(--c-texSec); fill: var(--c-icoSec); font-weight
+--- END CV ---
+--- CV 1 ---
+<div class="notion-selectable notion-collection_view-block" data-block-id="c24cf1e2-a16d-476a-9c37-f876d357d45c" dir="ltr" style="position: relative;">
+ <div style="display: flex; align-items: center; height: 40px; inset-inline-start: 1px; width: 100%;">
+  <div style="flex-grow: 1; min-width: 0px;">
+   <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding-top: 4px; padding-bottom: 4px; padding-inline: 8px 0px;">
+    <div style="display: flex; align-items: center; min-width: 0px; flex: 1 1 0%; overflow: hidden;">
+     <a class="x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq" href="https://app.notion.com/p/lewagon/c24cf1e2a16d476a9c37f876d357d45c?v=a9b6e60e63bc49ab873bbbd5efa321ea&amp;pvs=18" rel="noopener noreferrer" role="link" style="display: flex; align-items: center; min-width: 0px; width: 100%; max-width: 100%; margin-inline-end: 4px; padding-inline: 4px; border-radius: 6px;">
+      <div style="position: relative; width: 24px; height: 24px; margin-inline-end: 4px; display: flex; align-items: center; justify-content: center;">
+       <div class="notion-record-icon notranslate" style="display: flex; align-items: center; justify-content: center; height: 22px; width: 22px; border-radius: 0.25em; flex-shrink: 0; margin-inline-end: 4px;">
+        <div style="display: flex; align-items: center; justify-content: center; height: 22px; width: 22px; flex-shrink: 0;">
+         <div data-darkreader-inline-color="" style="height: 15.4px; width: 15.4px; font-size: 15.4px; line-height: 1; margin-inline-start: 0px; color: var(--c-regEmoCol); --darkreader-inline-color: var(--darkreader-text--c-regEmoCol, var(--darkreader-text-000000, #e8e6e3));">
+          <img alt="🫧" class="notion-emoji" data-darkreader-inline-bgcolor="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style='width: 100%; height: 100%; background: url("/images/emoji/twitter-emoji-spritesheet-32.0e67dbfc.webp") 91.6667% 31.6667% / 6100% 6100%; --darkreader-inline-bgcolor: initial;'/>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div>
+       <div class="x78zum5" style="align-items: center;">
+        <div class="notranslate" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 24px; line-height: 31.2px; font-weight: 600; min-width: 0px; max-width: 100%; width: 100%; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; margin-inline-end: 4px;">
+         Product &amp; Ops Updates
+        </div>
+       </div>
+      </div>
+     </a>
+    </div>
+   </div>
+   <div style="padding-inline-start: 4px;">
+   </div>
+  </div>
+  <div style="height: 100%; flex-grow: 1; padding-inline-end: 8px; opacity: 1; transition: opacity 100ms ease-in-out;">
+   <div style="height: 100%; display: flex; flex-direction: row; justify-content: end; align-items: center; opacity: 1;">
+    <div class="xjp7ctv" data-popup-origin="true">
+    </div>
+    <div class="xjp7ctv" data-popup-origin="true">
+     <div class="xjp7ctv" data-popup-origin="true">
+      <div style="position: relative;">
+       <div aria-expanded="false" aria-haspopup="dialog" aria-label="Filter" class="x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13 notion-collection-filter" data-darkreader-inline-color="" data-darkreader-inline-fill="" role="button" style="--x-color: var(--c-texPri); --x-l5dkfo: transparent; --x-8zloot: var(--ca-bacTerTra); --x-13727ff: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); --x-ph3bdx: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 2))); --x-pjywqs: var(--ca-bacTerTra); --x-ovxak1: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); display: flex; align-items: center; font-size: 14px; padding: 6px; height: 28px; width: 28px; color: var(--c-texSec); fill: var(--c-icoSec); font-weight: 400; line-height: 1; border-radius: 6px; --darkreader-text--x-color: var(--darkreader-text--c-texPri); --darkreader-bg--x-l5dkfo: var(--darkreader-background-00000000, rgba(0, 0, 0, 0)); --darkreader-bg--x-8zloot: var(--darkreader-bg--ca-bacTerTra); --darkreader-bg--x-ph3bdx: var(--darkreader-background-010001, #010001); --darkreader-bg--x-pjywqs: var(--darkreader-bg--ca-bacTerTra); --darkreader-inline-color: var(--darkreader-text--c-texSec, var(--darkreader-text-000000, #e8e6e3)); --darkreader-inline-fill: var(--darkreader-text--c-icoSec, var(--darkreader-text-000000, #e8e6e3));" tabindex="0">
+        <svg aria-hidden="true" class="filterSmall x1lliihq x2lah0s x1kky2od xlup9mm x19zyb68 x14rh7hd" data-darkreader-inline-fill="" role="graphics-symbol" style="--x-fill: var(--c-icoSec); --x-color: var(--c-icoSec); width: 16px; height: 16px; fill: var(--c-icoSec); --darkreader-text--x-fill: var(--darkreader-text--c-icoSec); --darkreader-text--x-color: var(--darkreader-text--c-icoSec); --darkreader-inline-fill: var(--darkreader-text--c-icoSec, var(--darkreader-text-000000, #e8e6e3));" viewbox="0 0 16 16">
+         <path d="M2.4 3.7a.7.7 0 1 0 0 1.4h11.2a.7.7 0 1 0 0-1.4zm9.5 3.594H4.1a.7.7 0 1 0 0 1.4h7.8a.7.7 0 1 0 0-1.4M5.8 10.9a.7.7 0 1 0 0 1.4h4.4a.7.7 0 1 0 0-1.4z">
+         </path>
+        </svg>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="xjp7ctv" data-popup-origin="true">
+     <div class="xjp7ctv" data-popup-origin="true">
+      <div style="position: relative;">
+       <div aria-expanded="false" aria-haspopup="dialog" aria-label="Sort" class="x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13 notion-collection-sort" data-darkreader-inline-color="" data-darkreader-inline-fill="" role="button" style="--x-color: var(--c-texPri); --x-l5dkfo: transparent; --x-8zloot: var(--ca-bacTerTra); --x-13727ff: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); --x-ph3bdx: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 2))); --x-pjywqs: var(--ca-bacTerTra); --x-ovxak1: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); display: flex; align-items: center; font-size: 14px; padding: 6px; height: 28px; width: 28px; color: var(--c-texSec); fill: var(--c-icoSec); font-weight: 400; line-height: 1; border-radius: 6px; --darkreader-text--x-color: var(--darkreader-text--c-texPri); --darkreader-bg--x-l5dkfo: var(--darkreader-background-00000000, rgba(0, 0, 0, 0)); --darkreader-bg--x-8zloot: var(--darkreader-bg--ca-bacTerTra); --darkreader-bg--x-ph3bdx: var(--darkreader-background-010001, #010001); --darkreader-bg--x-pjywqs: var(--darkreader-bg--ca-bacTerTra); --darkreader-inline-color: var(--darkreader-text--c-texSec, var(--darkreader-text-000000, #e8e6e3)); --darkreader-inline-fill: var(--darkreader-text--c-icoSec, var(--darkreader-text-000000, #e8e6e3));" tabindex="0">
+        <svg aria-hidden="true" class="arrowUpDownSmall directional-icon x1lliihq x2lah0s x1kky2od xlup9mm x19zyb68 x14rh7hd" data-darkreader-inline-fill="" role="graphics-symbol" style="--x-fill: var(--c-icoSec); --x-color: var(--c-icoSec); width: 16px; height: 16px; fill: var(--c-bluIcoAccPri); transform: rotate(180deg); --darkreader-text--x-fill: var(--darkreader-text--c-icoSec); --darkreader-text--x-color: var(--darkreader-text--c-icoSec); --darkreader-inline-fill: var(--darkreader-text--c-bluIcoAccPri, var(--darkreader-text-000000, #e8e6e3));" viewbox="0 0 16 16">
+         <path d="M11.348 2.672a.625.625 0 0 0-.884 0L7.666 5.471a.625.625 0 1 0 .884.883l1.731-1.73v8.262a.625.625 0 1 0 1.25 0V4.623l1.732 1.731a.625.625 0 0 0 .884-.883zM5.093 2.49a.625.625 0 0 0-.625.624v8.263L2.737 9.646a.625.625 0 1 0-.884.883l2.798 2.799c.244.244.64.244.884 0l2.798-2.798a.625.625 0 0 0-.884-.884l-1.73 1.73V3.115a.625.625 0 0 0-.626-.625">
+         </path>
+        </svg>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="xjp7ctv" data-popup-origin="true">
+     <div aria-label="Automations" class="x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13 notion-collection-automation-edit-view" data-darkreader-inline-color="" data-darkreader-inline-fill="" role="button" style="--x-color: var(--c-texPri); --x-l5dkfo: transparent; --x-8zloot: var(--ca-bacTerTra); --x-13727ff: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); --x-ph3bdx: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 2))); --x-pjywqs: var(--ca-bacTerTra); --x-ovxak1: rgb(from var(--ca-bacTerTra) r g b / calc(alpha * (1 + 0.5 * var(--btn-adj-mult, 1) * 1))); display: flex; align-items: center; font-size: 14px; padding: 6px; height: 28px; width: 28px; color: var(--c-texSec); fill: var(--c-icoSec); font-weight: 400; line-height: 1; border-radius: 6px; --darkreader-text--x-color: var(--darkreader-text--c-texPri); --darkreader-bg--x-l5dkfo: var(--darkreader-background-00000000, rgba(0, 0, 0, 0)); --darkreader-bg--x-8zloot: var(--darkreader-bg--ca-bacTerTra); --darkreader-bg--x-ph3bdx: var(--darkreader-background-010001, #010001); --darkreader-bg--x-pjywqs: var(--darkreader-bg--ca-bacTerTra); --darkreader-inline-color: var(--darkreader-text--c-texSec, var(--darkreader-text-000000, #e8e6e3)); --darkreader-inline-fill: var(--darkreader-text--c-icoSec, var(--darkreader-text-000000, #e8e6e3));" tabindex="0">
+      <svg aria-hidden="true" class="lightningSmall x1lliihq x2lah0s x1kky2od xl
+--- END CV ---
+--- CV 2 ---
+<div class="notion-selectable notion-collection_view-block" data-block-id="c24cf1e2-a16d-476a-9c37-f876d357d45c" dir="ltr">
+ <div>
+  <div style="display: grid; position: relative; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; padding-top: 16px; padding-bottom: 4px;">
+   <div style="width: 4px; position: absolute; top: 16px; bottom: 4px;">
+    <div class="notion-selectable notion-collection_view-block" data-block-id="c24cf1e2-a16d-476a-9c37-f876d357d45c" dir="ltr" style="width: 100%; height: 100%;">
+    </div>
+   </div>
+   <div class="notion-selectable notion-page-block notion-collection-item" data-block-id="edb75349-c81a-48b5-905d-1793896732d7" dir="ltr">
+    <a class="x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq" data-darkreader-inline-bg="" data-darkreader-inline-boxshadow="" href="https://app.notion.com/p/lewagon/New-Batch-Managers-staffing-guidelines-edb75349c81a48b5905d1793896732d7?pvs=25" rel="noopener noreferrer" role="link" style="border-radius: 10px; position: static; overflow: hidden; transition: background 100ms ease-out; background: var(--cd-colGalPreCarBac); height: 100%; box-shadow: var(--c-shaBasSm), 0 0 0 1px var(--ca-borSecTra); user-select: none; display: flex; flex-direction: column; --darkreader-inline-bg: var(--darkreader-bg--cd-colGalPreCarBac); --darkreader-inline-boxshadow: var(--c-shaBasSm), 0 0 0 1px var(--darkreader-bg--ca-borSecTra);">
+     <div style="position: relative; width: 100%; z-index: 1;">
+      <div style="width: 100%; cursor: default;">
+       <div style="height: 146.25px; position: relative; pointer-events: none; overflow: hidden;">
+        <div class="" style="width: 100%; height: 100%;">
+         <img alt="" referrerpolicy="same-origin" src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;w=1200" style="display: block; object-fit: contain; border-radius: 0px; width: 100%; height: 146.25px; border-start-start-radius: 1px; border-start-end-radius: 1px; object-position: center 50%;"/>
+        </div>
+        <div data-darkreader-inline-border-bottom-short="" style="position: absolute; inset-inline: 0px; bottom: 0px; border-bottom: 1px solid var(--ca-borSecTra); --darkreader-inline-border-bottom-short: 1px solid var(--darkreader-border--ca-borSecTra);">
+        </div>
+       </div>
+      </div>
+      <div data-darkreader-inline-bg="" data-darkreader-inline-boxshadow="" data-darkreader-inline-color="" data-darkreader-inline-fill="" style='color: var(--c-texSec); fill: var(--c-texSec); font-size: 12px; background: var(--c-whiButBac); box-shadow: var(--c-shaOutMd); display: flex; white-space: nowrap; border-radius: 4px; max-width: calc(100% - 16px); min-height: 24px; overflow: hidden; pointer-events: none; opacity: 0; font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; position: absolute; inset-inline-end: 8px; z-index: 2; top: 8px; transition-duration: 1ms; transition-timing-function: ease; transition-property: opacity; --darkreader-inline-bg: var(--darkreader-bg--c-whiButBac); --darkreader-inline-color: var(--darkreader-text--c-texSec, var(--darkreader-text-000000, #e8e6e3)); --darkreader-inline-fill: var(--darkreader-text--c-texSec, var(--darkreader-text-000000, #e8e6e3)); --darkreader-inline-boxshadow: var(--darkreader-bg--c-shaOutMd);'>
+       <div class="xjp7ctv" data-popup-origin="true">
+        <div class="x87ps6o x1b7c0jy x1ypdohk" data-darkreader-inline-color="" data-darkreader-inline-fill="" role="button" style="display: flex; align-items: center; justify-content: center; padding: 4px 6px; border-inline-end: none; font-weight: 500; color: var(--c-texSec); fill: var(--c-texSec); --darkreader-inline-color: var(--darkreader-text--c-texSec, var(--darkreader-text-000000, #e8e6e3)); --darkreader-inline-fill: var(--darkreader-text--c-texSec, var(--darkreader-text-000000, #e8e6e3));" tabindex="0">
+         <svg aria-hidden="true" class="ellipsisSmall x1lliihq x2lah0s x1kky2od xlup9mm x1kihv7h x1heor9g" role="graphics-symbol" viewbox="0 0 16 16">
+          <path d="M3.2 6.725a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55">
+          </path>
+         </svg>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div style="position: relative; width: 100%; display: flex; align-items: center; padding-inline: 10px; padding-bottom: 6px; padding-top: 8px;">
+      <div class="notion-record-icon notranslate" style="display: flex; align-items: center; justify-content: center; height: 24px; width: 24px; border-radius: 5px; flex-shrink: 0; float: inline-start; margin-top: 0px; margin-inline: -2px 4px; align-self: flex-start;">
+       <div style="display: flex; align-items: center; justify-content: center; height: 20px; width: 20px; flex-shrink: 0;">
+        <div data-darkreader-inline-color="" style="height: 14px; width: 14px; font-size: 14px; line-height: 1; margin-inline-start: 0px; color: var(--c-regEmoCol); --darkreader-inline-color: var(--darkreader-text--c-regEmoCol, var(--darkreader-text-000000, #e8e6e3));">
+         <img alt="📆" class="notion-emoji" data-darkreader-inline-bgcolor="" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style='width: 100%; height: 100%; background: url("/images/emoji/twitter-emoji-spritesheet-32.0e67dbfc.webp") 46.6667% 48.3333% / 6100% 6100%; --darkreader-inline-bgcolor: initial;'/>
+        </div>
+       </div>
+      </div>
+      <div style="flex-grow: 1;">
+       <div class="content-editable-leaf-rtl" contenteditable="false" data-content-editable-leaf="true" id=":r7rt:" placeholder="New page" spellcheck="true" style="max-width: 100%; width: auto; white-space: pre-wrap; word-break: break-word; caret-color: var(--c-texPri); pointer-events: none; padding: 0px 1px; font-size: 15px; line-height: 1.5; min-height: 22.5px; font-weight: 500;">
+        New Batch Managers staffing guidelines
+       </div>
+      </div>
+     </div>
+     <div style="padding-top: 0px; line-height: 1.5; display: flex; flex-direction: column; margin-inline: 0px; padding-bottom: 8px;">
+      <div>
+       <div>
+        <div class="xjp7ctv" data-popup-origin="true">
+         <div style="position: relative; display: flex; overflow: hidden; align-items: center; border-radius: 5px; font-size: 12px; margin-top: 0px; margin-bottom: 0px; margin-inline: 6px; padding-top: 5px; padding-bottom: 5px; padding-inline: 5px; min-height: 28px; white-space: normal; min-width: fit-content; width: fit-content; cursor: default;">
+          <div style="display: flex; min-width: 0px; flex-shrink: 0; flex-wrap: wrap; width: 100%; gap: 4px 6px; align-items: center;">
+           <div style="display: flex; min-width: 0px; flex-shrink: 0; flex-wrap: wrap; width: 100%; gap: 4px 6px; align-items: center;">
+            <div style="display: inline-block; align-items: center; flex-shrink: 0; min-width: 0px; height: 18px; border-radius: 6px; font-size: 12px; line-height: 1.5; margin: 0px;">
+             <div style="display: flex; align-items: center; min-width: 0px;">
+              <div style="margin-inline-end: 6px; align-self: center;">
+               <div>
+                <div style="border-radius: 100%; width: 18px; height: 18px; display: flex; align-items: center; justify-content: center; user-select: none; opacity: 1;">
+                 <div class="" data-darkreader-inline-bg="" data-darkreader-inline-boxshadow="" data-darkreader-inline-outline="" style="width: 100%; height: 100%; --darkreader-inline-bg: var(--darkreader-bg--c-bacPri); --darkreader-inline-outline: var(--darkreader-border--ca-borSecTra); --darkreader-inline-boxshadow: none;">
+                  <img alt="Daniel Rodriguez" data-darkreader-inline-bg="" data-darkreader-inline-boxshadow="" data-darkreader-inline-outline="" referrerpolicy="same-origin" src="https://app.notion.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2Ffa1f3b07-d54c-4aa3-be1d-85f6f2c45951%2FImage_from_iOS_(2).jpeg?width=240&amp;userId=342d872b-594c-817d-8145-000204a2c537&amp;cache=v2&amp;imgBuildSrc=requestProxiedImageUrl" style="display: block; object-fit: cover; border-radius: 100%; width: 100%; height: 100%; background: var(--c-bacPri); box-shadow: none; outline-width: 1px; outline-style: solid; outline-color: var(--ca-borSecTra); outline-offset: -1px; --darkreader-inline-bg: var(--darkreader-bg--c-bacPri); --darkreader-inline-outline: var(--darkreader-border--ca-borSecTra); --darkreader-inline-boxshadow: none;"/>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class="notranslate" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0px;">
+               Daniel Rodriguez
+              </div>
+             </div>
+             <div class="notranslate" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div>
+       <div class="xjp7ctv" data-popup-origin="true">
+        <div style="position: relative; display: flex; overflow: hidden; align-items: center; border-radius: 5px; font-size: 12px; margin-top: 0px; margin-bottom: 0px; margin-inline: 6px; padding-top: 5px; padding-bottom: 5px; padding-inline: 5px; min-height: 28px; white-space: normal; min-width: fit-content; width: fit-content; cursor: default;">
+         <div style="line-height: 1.5; white-space: pre-wrap; word-break: break-word; overflow: hidden;">
+          <div style="line-height: 1.5; white-space: pre-wrap; word-break: break-word; overflow: hidden; display: inline;">
+           April 2, 2024
+  
+--- END CV ---
+--- CV 3 ---
+<div class="notion-selectable notion-collection_view-block" data-block-id="c24cf1e2-a16d-476a-9c37-f876d357d45c" dir="ltr" style="width: 100%; height: 100%;">
+</div>
+
+--- END CV ---

@@ -1,0 +1,20 @@
+{
+  "title": "Events Hub",
+  "notion_id": "1c88924af01480d3918dedcb761f68b5",
+  "source_url": "https://app.notion.com/p/lewagon/Events-Hub-1c88924af01480d3918dedcb761f68b5",
+  "block_counts": {
+    "column_list": 5,
+    "column": 12,
+    "callout": 9,
+    "text": 66,
+    "page": 38,
+    "button": 1,
+    "divider": 9,
+    "sub_sub_header": 9,
+    "numbered_list": 2,
+    "quote": 1,
+    "collection_view": 44,
+    "toggle": 1
+  },
+  "unhandled_types": []
+}

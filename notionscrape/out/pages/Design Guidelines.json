@@ -1,0 +1,21 @@
+{
+  "title": "Design Guidelines",
+  "notion_id": "1a9229bab90443009418dc5fd1df2f8c",
+  "source_url": "https://app.notion.com/p/lewagon/Design-Guidelines-1a9229bab90443009418dc5fd1df2f8c",
+  "block_counts": {
+    "divider": 4,
+    "text": 20,
+    "pdf": 1,
+    "file": 6,
+    "header": 3,
+    "column_list": 2,
+    "column": 4,
+    "image": 5,
+    "collection_view": 6,
+    "callout": 1
+  },
+  "unhandled_types": [
+    "file",
+    "pdf"
+  ]
+}

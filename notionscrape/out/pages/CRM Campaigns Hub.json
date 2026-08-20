@@ -1,0 +1,19 @@
+{
+  "title": "CRM Campaigns Hub",
+  "notion_id": "1528924af01480719bf5e3592a536d79",
+  "source_url": "https://app.notion.com/p/lewagon/CRM-Campaigns-Hub-1528924af01480719bf5e3592a536d79",
+  "block_counts": {
+    "text": 10,
+    "column_list": 1,
+    "column": 2,
+    "callout": 1,
+    "unknown": 1,
+    "page": 10,
+    "transclusion_reference": 2,
+    "collection_view": 4,
+    "header": 1
+  },
+  "unhandled_types": [
+    "transclusion_reference"
+  ]
+}

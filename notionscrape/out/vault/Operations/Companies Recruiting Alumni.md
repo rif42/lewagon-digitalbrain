@@ -1,0 +1,86 @@
+---
+type: notion-import
+notion-id: 1a4eff61e28748ad91c15562280bd0d9
+source-url: https://app.notion.com/p/lewagon/Companies-Recruiting-Alumni-1a4eff61e28748ad91c15562280bd0d9
+imported: 2026-07-23
+---
+# Companies Recruiting Alumni
+### Companies Recruiting Alumni
+- Capgemini53kitt.lewagon.com/car…geminihttps://www.lewagon.com/blog/entrepreneurship-secrets-from-those-at-the-top
+- Amazon52kitt.lewagon.com/car…amazonhttps://www.lewagon.com/blog/program-manager-amazon
+- Accenture51kitt.lewagon.com/car…/14775https://www.lewagon.com/blog/ivan-tembe-bildungsgutschein-berlin
+- Google49kitt.lewagon.com/car…es/169
+- Deloitte38kitt.lewagon.com/car…loitte
+- Doctolib33kitt.lewagon.com/car…s/2517https://www.linkedin.com/in/stanislasnioxchateau/Boris Paillardhttps://app.sparkmailapp.com/web-share/u9xSJUaKoq8yWlglWtORgl5gTGk6MjalPyv5OaUb
+- BNP Paribas30kitt.lewagon.com/car…ch=bnp
+- PwC25kitt.lewagon.com/car…ch=pwc
+- McKinsey24kitt.lewagon.com/car…es/920
+- ThoughtWorks23kitt.lewagon.com/car…s/2138https://www.youtube.com/watch?v=vJyE3wuFgVA
+- IBM23kitt.lewagon.com/car…es/335
+- GetAround21kitt.lewagon.com/car…aroundhttps://shows.acast.com/lewagon/episodes/episode-39-nicolas-mondollot-cto-drivyhttps://www.linkedin.com/in/simonbaldeyrou/Boris Paillardhttps://app.sparkmailapp.com/web-share/BRsGUOLyy7e7ZbS14vV6q_T9nZ86UVXDuR2utbD3“We've hired more than 20 Le Wagon graduates at various tech and product roles. We really appreciate their profile, strong foundations in tech, product and data, and above all their ability to learn fast."
+- Qonto19kitt.lewagon.com/car…s/1275https://www.youtube.com/watch?v=mZiUCl_C1Ashttps://www.linkedin.com/in/aprotBoris Paillard- Boris has reached out to Gwenn (Global Head of Acquisition) on whatsapp waiting answer
+- Société Générale18kitt.lewagon.com/car…A9rale
+- ManoMano17kitt.lewagon.com/car…es/401
+- Apple17kitt.lewagon.com/car…es/685
+- Entrepreneur First17kitt.lewagon.com/car…es/968
+- Yago16kitt.lewagon.com/car…/76635
+- CGI16kitt.lewagon.com/car…s/4900
+- Skello15kitt.lewagon.com/car…s/2631https://www.youtube.com/watch?v=Pjs9869IoN8Romain PaillardDiné avec quitterie le 23 juin
+- Papernest15kitt.lewagon.com/car…/35582https://shows.acast.com/lewagon/episodes/talk-avec-philippe-de-la-chevasnerie-ceo-founder-papernest
+- L’Oréal14kitt.lewagon.com/car…es/708
+- Microsoft14kitt.lewagon.com/car…ies/57
+- Capsens13kitt.lewagon.com/car…ies/73
+- Pennylane12kitt.lewagon.com/car…/51989
+- Algolia12kitt.lewagon.com/car…s/1706https://www.youtube.com/watch?v=5ZpwR3VuT50
+- CDiscount12kitt.lewagon.com/car…s/1082
+- Smart Pension12kitt.lewagon.com/car…s/1413
+- Lifen12kitt.lewagon.com/car…s/2407
+- eFounders11kitt.lewagon.com/car…s/1682https://www.youtube.com/watch?v=7esHm3ZFDUw
+- Deutsche bank11kitt.lewagon.com/car…ies/10
+- Decathlon11kitt.lewagon.com/car…athlon
+- Payfit10kitt.lewagon.com/car…s/1974https://shows.acast.com/lewagon/episodes/episode-98-florian-fournier-payfit
+- Criteo10kitt.lewagon.com/car…es/317https://www.youtube.com/watch?v=y-hnoSlvTlQ
+- Altran10kitt.lewagon.com/car…s/3714
+- Advicefront10kitt.lewagon.com/car…/38296
+- Ubisoft10kitt.lewagon.com/car…s/1925
+- Beta.gouv9kitt.lewagon.com/car…/36376
+- Back Market9kitt.lewagon.com/car…/35668https://shows.acast.com/lewagon/episodes/episode-42-thibaud-hug-de-larauze-ceo-back-market
+- BCD Digital Ventures9kitt.lewagon.com/car…s/3180https://www.youtube.com/watch?v=XGQEJATUImE
+- Deliveroo9kitt.lewagon.com/car…es/220
+- HEC9kitt.lewagon.com/car…ch=hec
+- Shopify9kitt.lewagon.com/car…/37299
+- Aircall8kitt.lewagon.com/car…/35675https://www.youtube.com/watch?v=f-op1ZTxmDU
+- TikTok8kitt.lewagon.com/car…/56058
+- Beslogic8kitt.lewagon.com/car…/15202
+- Alan8kitt.lewagon.com/car…s/2652https://www.linkedin.com/in/jcsamuelian/Boris Paillardhttps://app.sparkmailapp.com/web-share/kIoB-Nw10OshbUAarKsXLlsuFsLm88eIl75yt5GMNous avons recruté des talents extraordinaires du Wagon dans des rôles très divers : data, product, legal, ops, talent, sales et engineering. C'est une très bonne formation pour comprendre nos enjeux
+- Contentful8kitt.lewagon.com/car…es/956
+- Theodo7kitt.lewagon.com/car…/35952https://www.linkedin.com/in/fabricebernhard/Boris Paillardhttps://app.sparkmailapp.com/web-share/pnbIvfmfTfneQsDovTHsOPy48ZivOY2-leMw55mI
+- Babbel7kitt.lewagon.com/car…s/1202
+- HelloFresh7kitt.lewagon.com/car…/37532https://www.lewagon.com/blog/hellofresh-lewagon-partnership
+- Contentful7kitt.lewagon.com/car…es/956
+- Dataguard7kitt.lewagon.com/car…s/8122
+- adyen7kitt.lewagon.com/car…s/2372
+- Rabobank7kitt.lewagon.com/car…es/794
+- Amenitiz7kitt.lewagon.com/car…/37660https://www.lewagon.com/blog/amenitiz-startup-success-story
+- Spendesk7kitt.lewagon.com/car…s/2481https://www.lewagon.com/fr/blog/jeremy-goillot-growth-hacker-spendesk
+- ContentSquare7kitt.lewagon.com/car…/37991
+- Sage7kitt.lewagon.com/car…/37215
+- In the memory6kitt.lewagon.com/car…/30051
+- Veepee6kitt.lewagon.com/car…/24553
+- Airbnb5kitt.lewagon.com/car…s/1130https://www.youtube.com/watch?v=6QVXPNrSbLU
+- Octo Technology5kitt.lewagon.com/car…s/2492
+- Stripe4kitt.lewagon.com/car…nies/6https://shows.acast.com/lewagon-live/episodes/episode-33-ross-sheil-stripe
+- Engie4kitt.lewagon.com/car…s/5355
+- Roland Berger4kitt.lewagon.com/car…es/494
+- Santander4kitt.lewagon.com/car…tander
+- Thales4kitt.lewagon.com/car…/74353
+- Amadeus4kitt.lewagon.com/car…/37174
+- BPI France3kitt.lewagon.com/car…/35623https://bigmedia.bpifrance.fr/news/comment-le-wagon-a-conquis-le-marche-mondial-de-la-formation-au-code
+- 360Learning3kitt.lewagon.com/car…/36113
+- Mirakl3kitt.lewagon.com/car…s/4169
+- BlaBlaCar3kitt.lewagon.com/car…/36876
+- Pluralsight1kitt.lewagon.com/car…/71346
+- LSE
+- King’s College
+## Related
+- [[Content]]
