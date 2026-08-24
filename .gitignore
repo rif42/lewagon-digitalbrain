@@ -46,3 +46,4 @@ quartz/public
 # Quartz internal cache (nested)
 .quartz/
 quartz/quartz/.quartz-cache
+quartz/content
