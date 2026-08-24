@@ -42,7 +42,6 @@ Thumbs.db
 # Quartz
 quartz/.quartz-cache
 quartz/public
-quartz/content
 
 # Quartz internal cache (nested)
 .quartz/
