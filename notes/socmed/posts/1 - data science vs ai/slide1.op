@@ -1,0 +1,108 @@
+{
+  "version": "0.8.1",
+  "pages": [
+    {
+      "id": "p1",
+      "name": "Slide 1",
+      "children": [
+        {
+          "type": "frame",
+          "id": "n1",
+          "name": "Slide 1 — Hook",
+          "x": 0,
+          "y": 0,
+          "width": 1080,
+          "height": 1350,
+          "layout": "none",
+          "clipContent": true,
+          "fill": [
+            {
+              "type": "solid",
+              "color": "#5315B8"
+            }
+          ],
+          "children": [
+            {
+              "type": "image",
+              "id": "n2",
+              "name": "Le Wagon Logo",
+              "x": 60,
+              "y": 60,
+              "width": 90,
+              "height": 90,
+              "src": "assets/lewagon-pop.webp",
+              "objectFit": "contain"
+            },
+            {
+              "type": "text",
+              "id": "n3",
+              "name": "Hook Line 1",
+              "x": 60,
+              "y": 480,
+              "width": 960,
+              "height": 120,
+              "content": "AI is getting the hype.",
+              "fontFamily": "Circular",
+              "fontSize": 88,
+              "fontWeight": 700,
+              "lineHeight": 1.1,
+              "letterSpacing": 0,
+              "textAlign": "left",
+              "textGrowth": "fixed-width",
+              "fill": [
+                {
+                  "type": "solid",
+                  "color": "#FFFFFF"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "n4",
+              "name": "Hook Line 2",
+              "x": 60,
+              "y": 610,
+              "width": 960,
+              "height": 120,
+              "content": "Data is getting the jobs.",
+              "fontFamily": "Circular",
+              "fontSize": 88,
+              "fontWeight": 700,
+              "lineHeight": 1.1,
+              "letterSpacing": 0,
+              "textAlign": "left",
+              "textGrowth": "fixed-width",
+              "fill": [
+                {
+                  "type": "solid",
+                  "color": "#E60F05"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "n5",
+              "name": "Slide Number",
+              "x": 60,
+              "y": 1260,
+              "width": 200,
+              "height": 30,
+              "content": "1 / 6",
+              "fontFamily": "Inter",
+              "fontSize": 18,
+              "fontWeight": 500,
+              "textAlign": "left",
+              "textGrowth": "fixed-width",
+              "fill": [
+                {
+                  "type": "solid",
+                  "color": "#FFFFFF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

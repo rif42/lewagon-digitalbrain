@@ -1,12 +1,15 @@
 {
   "name": "lewagon-digitalbrain",
-  "module": "index.ts",
-  "type": "module",
+  "type": "commonjs",
   "private": true,
-  "devDependencies": {
-    "@types/bun": "latest"
+  "scripts": {
+    "sync": "bash scripts/sync-content.sh",
+    "sync:win": "scripts\\sync-content.bat",
+    "preview": "npm run sync && npx --prefix quartz quartz build --serve",
+    "build": "npm run sync && npx --prefix quartz quartz build"
   },
-  "peerDependencies": {
-    "typescript": "^5"
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.9.0"
   }
 }

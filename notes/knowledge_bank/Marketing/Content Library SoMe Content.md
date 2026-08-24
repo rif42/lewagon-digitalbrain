@@ -1,0 +1,66 @@
+---
+type: notion-import
+notion-id: f6519397461f4fd684da41227df0ac41
+source-url: https://app.notion.com/p/lewagon/Content-Library-SoMe-Content-f6519397461f4fd684da41227df0ac41
+imported: 2026-07-23
+---
+# Content Library | SoMe Content
+### Content Library | Global Overview
+- Get your boss to PayThis project aims to reduce financial barriers for leads and emphasize ROI for companies. 
+- Bootcamp Curriculum Carousel AssetsSocial media-ready carousels showcasing what students learn in each bootcamp.Includes headlines, skill-focused descriptions, and key toolsCurriculumGrowth MarketingData EngineeringData Science & AISoMe postLidia GibertDoneUpskillerTech professionalsAlumni
+- How to get your company to pay for your tech training: A step-by-step guideThis project aims to reduce financial barriers for leads and emphasize ROI for companies. 
+- Part time/ full time templateA carousel template comparing our full-time or part-time learning formats.Learning formatSoMe postLidia GibertDoneLeads
+- Article: Online Growth Marketing Demo dayBlog article about the 4 online demo day projects for Growth Marketing! Excellent to translate or promote on local SoMe or emailing.Alumni success storyGrowth MarketingArticleSoMe postLidia GibertDoneGraduateUpskillerEntrepreneur
+- UGC videos x Data EngineeringProfessional UGC creator’s videos to promote Data Engineering bootcamp. Excellent for MoFu campaigns on Meta or IG. CTA: Download syllabus!Data EngineeringVideoSoMe postLidia GibertDoneTech professionalsUpskiller
+- UGC video x Growth MarketingProfessional UGC creator’s videos to promote Growth Marketing bootcamp. Excellent for MoFu campaigns on Meta or IG.Growth MarketingVideoSoMe postLidia GibertDoneUpskillerTech professionals
+- Masterclass: How to save your team 100s of hours/monthA masterclass session related to Growth Marketing automation to show skills and tool to save hoursGrowth MarketingWorkshopSoMe postLidia GibertDoneUpskillerLeadsTech professionals
+- Growth Marketing Info sessionIs Growth Marketing the next step in your career? Join us for an info sessionGrowth MarketingWorkshopSoMe postLidia GibertDoneLeads
+- Tech Transit Podcast | Navigating the Tech Job Market with Raquel BordinIn this conversation, Raquel, a recruiter at VIA, shares insights into the hiring process, the importance of preparation, and the role of soft skills in recruitment. She discusses how candidates can stand out in a crowded job market, the significance of company culture, and the various career paths available at VIA. Raquel emphasizes the need for curiosity and intentionality in networking and job applications, providing valuable advice for newcomers in the tech field.Career servicesPodcastSoMe postVideoLynsey CookDoneLeadsAlumniPartnerGraduate
+- IWD 2025 | Internal figuresAs part of our International Women’s Day activation in 2025, we’ve created an asset visualizing the percentage of women across our teams.Women in TechSoMe postInfographicLynsey CookDoneLeadsAlumniPartner
+- IWD 2025 | Alumni figuresAs part of our International Women’s Day activation in 2025, we’ve created an asset visualizing the growth of women in our courses.Women in TechSoMe postInfographicLynsey CookDoneLeadsAlumniPartner
+- Building & Protecting Your Digital Reputation: A CTO’s Perspective with Malik AmgharIn this episode, Malik Amgar, an engineer and entrepreneur, discusses his journey in launching two startups: Propria Consulting, which focuses on digital reputation management, and Gift Club, a marketing SaaS for physical shops. We dive into the importance of online reputation, especially for job seekers, and the challenges of managing privacy in the digital age. Malik also shares insights on gamification in marketing and the technical challenges faced in startup development, emphasizing the role of GDPR in shaping the future of digital reputation.Data & AICareer servicesEntrepreneurPodcastVideoSoMe postLynsey CookDoneLeadsEntrepreneurGraduateTech professionals
+- Tech Transit | Unlocking AI’s Potential with Ivo BernardoIn this episode, Ivo Bernardo, a data scientist and partner at DareData, shares his journey from engineering to data science and the founding of his company. We discuss the evolution of AI, the importance of combining software engineering with data science, and the challenges enterprises face in implementing AI solutions. Ivo highlights real-world applications of AI, the significance of business expertise, and the role of automation and augmentation in enhancing productivity. He emphasises the need for companies to own their AI systems and the importance of coding skills in an AI-driven world.Data & AIPodcastVideoSoMe postLynsey CookDoneLeadsAlumni
+- Diverse talent in tech: insights from Le Wagon’s job reportArticled on the insights from the job report for onlineCareer servicesArticleSoMe postcarmen ortegaDoneLeads
+- Building data apps with Streamlit: a beginner’s guideDiscover how to create powerful and interactive data apps with Streamlit in this beginner-friendly workshop.EventsWorkshopArticleSoMe postLidia GibertDoneGraduateUpskillerCareer changersTech professionals
+- Article:Essential skills for the future of work: Insights from the Future of Jobs Report 20251Insights from the Future of Jobs Report 2025 and how these skills connect with Le Wagon offer! The info is WW, so feel free to translateand use in local SMCareer servicesArticleSoMe postLidia GibertDoneTech professionalsCareer changersUpskiller
+- 2024 wrappedA year-in-review video celebrating our milestones and achievements, designed to inspire and engage as we look forward to an exciting new year ahead. Optimized for social media.OtherSoMe postLynsey CookDoneLeadsAlumniPartner
+- Tech Transit | Preparing Tomorrow's Entrepreneurs with Diego Pizzaro SanchesDiego Pizarro Sanchez is the Learning Experience Manager for the MSc X-HEC Entrepreneurs program, in this episode heshares his unique journey to entrepreneurship. Diego shares how a devastating earthquake in Chile inspired him to create a social business focused on sustainable sanitation in France. He discusses his transition into education, mentoring future entrepreneurs at HEC Paris, and the challenges posed by AI in the educational landscape. Diego also outlines the structure of the entrepreneurial program he leads, highlighting the hands-on approach and the importance of developing resilience in students.EntrepreneurData & AIPodcastVideoSoMe postLynsey CookDoneLeadsEntrepreneur
+- Tech Transit Podcast | Designing for success: How to innovate and lead with sprints with Rob HamblenIn this episode, Rob Hamblen, founder of Be The Lead, discusses the importance of design sprints in product development. He explains how design sprints help businesses create human-centered products by aligning stakeholders and validating ideas quickly. The discussion covers the structure of design sprints, common mistakes teams make, and real-world success stories. Rob also offers advice for those looking to lead their first sprint, emphasizing the need for preparation and understanding the dynamics of the team involved.EntrepreneurPodcastVideoSoMe postLynsey CookDoneLeadsEntrepreneurTech professionals
+- Olivier's journey: From bootcamp graduate to Head of Product, API at OpenAIExplore Olivier's journey from a Le Wagon graduate to leading product strategy at OpenAI. Gain insights into AI's impact on tech, recommendations for aspiring AI professionals, and Olivier's vision for the industry's future.Alumni success storyData & AITech TalkArticleSoMe postLynsey CookMissing filesLeads
+- Tech Transit Podcast | Bootcamps to careers: Graduate schemes as the launchpad with Lindsay JopsonIn this conversation, Lindsay Jopson, the global head of engineering at Vista Group, shares insights into the tech industry, particularly focusing on graduate programs and bootcamps. Lindsay discusses his journey from being a developer to a leadership role, the value of graduate programs, and the differences between traditional education and bootcamps. He emphasizes the importance of hard and soft skills, the need for diversity in hiring, and offers practical advice for bootcamp graduates entering the job market.Web DevelopmentCareer servicesPodcastVideoSoMe postLynsey CookDoneLeadsAlumniGraduateCareer changers
+- European industry white paperLe Wagon has partnered withIgnition Program, a Paris based HR agency, to develop a co-branded industry white paper bringing insights into the European job market. Available in​Career servicesReport/ white paperSoMe postLynsey CookDoneLeadsAlumniPartner
+- Online Tech talk: Mums in tech: balancing skills, careers and kidsWe brought together three inspiring mums from the Le Wagon team and three accomplished alumni for an event that shines a light on their journeys.Women in TechEventsTech TalkArticleSoMe postLidia GibertDoneLeadsAlumniTech professionals
+- How I Switched My Career to Tech as a MotherThis article describes the story of two alumni mothers successfully transitioning to a tech career through Le Wagon Web development bootcamp.Women in TechWeb DevelopmentArticleSoMe postVladaDoneLeadsCareer changers
+- Course 1-pager | Growth MarketingBootcamp 1-pagers are a good downloadable asset for TOFU and MOFU stages before pushing the more content heavy syllabus.Growth MarketingReport/ white paperSoMe postLynsey CookDoneLeads
+- Course 1-pager | Data EngineeringBootcamp 1-pagers are a good downloadable asset for TOFU and MOFU stages before pushing the more content heavy syllabus.Data & AIReport/ white paperSoMe postLynsey CookDoneLeads
+- Course 1-pager | Data AnalyticsBootcamp 1-pagers are a good downloadable asset for TOFU and MOFU stages before pushing the more content heavy syllabus.Data & AIReport/ white paperSoMe postLynsey CookDoneLeads
+- Course 1-pager | Data Science & AIBootcamp 1-pagers are a good downloadable asset for TOFU and MOFU stages before pushing the more content heavy syllabus.Data & AIReport/ white paperSoMe postLynsey CookDoneLeads
+- Course 1-pager | Web DevelopmentBootcamp 1-pagers are a good downloadable asset for TOFU and MOFU stages before pushing the more content heavy syllabus.Web DevelopmentReport/ white paperSoMe postLynsey CookDoneLeads
+- 2023 International womens day infographicAn infographic on women in tech from 2023, which was part of the IWD activationWomen in TechInfographicSoMe postLynsey CookDoneLeadsTech professionals
+- Mantu infographicA co-branded infographic with Mantu about the inpact of AI on the EU job market. This was aligned with the New Year campaign in 2024. This also include SoMe adaptations.Data & AIInfographicSoMe postArticleLynsey CookDoneLeadsTech professionals
+- 2024 Tech RoadmapAs part of the 2024 New Year Campaign, we produced a tech roadmap which is available in ENG, FR, DE and ES. This also include SoMe adaptations.Web DevelopmentProduct & GrowthData & AIReport/ white paperSoMe postLynsey CookDoneLeadsTech professionals
+- Expert teacher video series | Software EngineeringIn this video, we interview Paul, a Web Development teacher and freelancer.Web DevelopmentVideoSoMe postArticleLynsey CookDoneLeads
+- Expert teacher video series | Growth MarketingIn this video, we interview Maxim, a Product & Growth teacher and course author.Growth MarketingVideoSoMe postArticleLynsey CookDoneLeads
+- Tech Transit Podcast | Remote first: how to get started in the virtual worldIn this episode we are joined by Jakob Knutzen, Co-Founder and CEO of Butter to discuss the evolution and importance of remote work in the tech industry.Career servicesPodcastVideoSoMe postLynsey CookDoneLeadsEntrepreneurTech professionals
+- Intro to gathertownLearning formatArticleSoMe postcarmen ortegaNeeds updateLeads
+- University vs. Self learningarticle that compares bootcamp vs self taughtLearning formatArticleSoMe postcarmen ortegaDoneLeads
+- Bootcamp vs. Universityarticle that compares bootcamp vs universityLearning formatArticleSoMe postcarmen ortegaDoneLeads
+- SoMe template: Demo DaySoMe template: Demo DayEventsDemo Day projectSoMe postLynsey CookDoneLeads
+- SoMe template: Admissions eventsSoMe template: Admissions eventsEventsSoMe postLynsey CookDoneLeads
+- SoMe template: Future of work eventsSoMe template: Future of work eventsEventsSoMe postLynsey CookDoneLeads
+- SoMe template: Career pathway eventsSoMe template: Career pathway eventsEventsSoMe postLynsey CookDoneLeads
+- SoMe template: Expert tech workshopsSoMe template: Expert tech workshopsEventsSoMe postLynsey CookDoneLeads
+- SoMe template: Thematic tech workshopsSoMe template: Thematic tech workshopsEventsSoMe postLynsey CookDoneLeads
+- SoMe template: Free tech workshopsSoMe template: Free tech workshopsEventsSoMe postLynsey CookDoneLeads
+- SoMe template: Upcoming events - week viewSoMe template: Upcoming events - week viewEventsSoMe postLynsey CookDoneLeads
+- SoMe template: upcoming events - month viewSoMe template: upcoming events - month viewEventsSoMe postLynsey CookDoneLeads
+- Meet our teachers SoMe templateSoMe template to introduce our expert teachersOtherSoMe postLynsey CookDoneLeads
+- Partnership SoMe templateSoMe template to announce a partnership with another companyOtherSoMe postLynsey CookDoneLeads
+## Related
+- [[Bootcamps]]
+- [[Campaigns]]
+- [[Candidates]]
+- [[Content]]
+- [[Data Science & AI]]
+- [[Emailing]]
+- [[Events]]

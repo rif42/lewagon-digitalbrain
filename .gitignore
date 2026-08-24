@@ -32,3 +32,18 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 # Finder (MacOS) folder config
 .DS_Store
+Thumbs.db
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/hotkeys.json
+.obsidian/workspace-mobile.json
+
+# Quartz
+quartz/.quartz-cache
+quartz/public
+quartz/content
+
+# Quartz internal cache (nested)
+.quartz/
+quartz/quartz/.quartz-cache
