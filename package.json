@@ -6,7 +6,11 @@
     "sync": "bash scripts/sync-content.sh",
     "sync:win": "scripts\\sync-content.bat",
     "preview": "npm run sync && npx --prefix quartz quartz build --serve",
-    "build": "npm run sync && npx --prefix quartz quartz build"
+    "build": "npm run sync && npx --prefix quartz quartz build",
+    "instagram": "python scripts/instagram/scrape.py --handles finnsbeachclub potatoheadbali --limit 12",
+    "instagram:fixture": "python scripts/instagram/scrape.py --use-fixture --handles finnsbeachclub potatoheadbali --limit 12",
+    "instagram:merge": "python scripts/instagram/merge.py",
+    "instagram:merge:dry": "python scripts/instagram/merge.py --dry-run"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
