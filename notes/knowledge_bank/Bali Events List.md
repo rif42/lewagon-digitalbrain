@@ -28,10 +28,10 @@ crawl_tool: crawl4ai
   <div id="bali-weekly-strip" style="margin-top:0.75rem"></div>
 </div>
 
-<div id="bali-event-modal" hidden style="position:fixed;inset:0;z-index:50;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.45);padding:1rem">
+<div id="bali-event-modal" hidden style="position:fixed;inset:0;z-index:50;align-items:center;justify-content:center;background:rgba(0,0,0,0.45);padding:1rem">
   <div style="position:relative;max-width:560px;width:100%;background:var(--light,#faf8f8);color:var(--dark,#2b2b2b);border-radius:12px;padding:1.25rem 1.5rem;box-shadow:0 12px 40px rgba(0,0,0,0.2);max-height:85vh;overflow:auto">
     <button id="bali-modal-close" aria-label="Close" style="position:absolute;top:0.5rem;right:0.75rem;border:none;background:transparent;font-size:1.5rem;cursor:pointer;line-height:1">×</button>
-    <h3 id="bali-modal-title" style="margin:0 1.5rem 0.35rem 0;font-size:1.05rem"></h3>
+    <div id="bali-modal-title" style="margin:0 1.5rem 0.35rem 0;font-size:1.05rem;font-weight:700"></div>
     <p id="bali-modal-meta" style="margin:0 0 0.6rem;color:var(--darkgray,#4e4e4e);font-size:0.88rem"></p>
     <p id="bali-modal-desc" style="margin:0 0 0.6rem;font-size:0.92rem;line-height:1.5"></p>
     <p id="bali-modal-cost" style="margin:0 0 0.6rem;font-size:0.88rem"></p>
@@ -66,6 +66,8 @@ crawl_tool: crawl4ai
 #bali-weekly-strip ul{margin:0;padding-left:1.2rem}
 #bali-weekly-strip li{margin:0.15rem 0;font-size:0.88rem}
 #bali-weekly-strip .wk-cat{opacity:0.7;font-size:0.82em}
+#bali-event-modal:not([hidden]){display:flex}
+#bali-event-modal[hidden]{display:none !important}
 </style>
 
 <script>
@@ -81,7 +83,9 @@ crawl_tool: crawl4ai
   }
   function closeModal(){
     var m=document.getElementById('bali-event-modal');
-    if(m) m.hidden=true;
+    if(!m) return;
+    m.hidden=true;
+    document.body.style.overflow='';
   }
   function openModal(ev){
     var p=ev.extendedProps||ev;
@@ -99,6 +103,20 @@ crawl_tool: crawl4ai
     var anchor=document.getElementById('bali-modal-anchor');
     if(p.anchor){ anchor.href='#'+p.anchor; anchor.hidden=false; } else { anchor.hidden=true; }
     modal.hidden=false;
+    document.body.style.overflow='hidden';
+  }
+  function bindModalClose(){
+    var closeBtn=document.getElementById('bali-modal-close');
+    if(closeBtn && !closeBtn.dataset.baliBound){ closeBtn.addEventListener('click', function(e){ e.preventDefault(); closeModal(); }); closeBtn.dataset.baliBound='1'; }
+    var modal=document.getElementById('bali-event-modal');
+    if(modal && !modal.dataset.baliBound){
+      modal.addEventListener('click',function(e){ if(e.target===modal) closeModal(); });
+      modal.dataset.baliBound='1';
+    }
+    if(!document.body.dataset.baliEscBound){
+      document.addEventListener('keydown',function(e){ if(e.key==='Escape'){ var m=document.getElementById('bali-event-modal'); if(m && !m.hidden) closeModal(); }});
+      document.body.dataset.baliEscBound='1';
+    }
   }
   function renderWeekly(events){
     var strip=document.getElementById('bali-weekly-strip');
@@ -137,16 +155,13 @@ crawl_tool: crawl4ai
     });
     cal.render();
     el.dataset.fcInit='1';
-    var closeBtn=document.getElementById('bali-modal-close');
-    if(closeBtn) closeBtn.onclick=closeModal;
-    var modal=document.getElementById('bali-event-modal');
-    if(modal) modal.addEventListener('click',function(e){ if(e.target===modal) closeModal(); });
-    document.addEventListener('keydown',function(e){ if(e.key==='Escape') closeModal(); });
   }
-  document.addEventListener('DOMContentLoaded', init);
+  bindModalClose();
+  document.addEventListener('DOMContentLoaded', function(){ bindModalClose(); init(); });
   window.addEventListener('load', init);
-  document.addEventListener('nav', function(){ var el=document.getElementById('bali-calendar'); if(el) el.dataset.fcInit=''; setTimeout(init,80); });
-  setTimeout(init,400);
+  document.addEventListener('nav', function(){ var el=document.getElementById('bali-calendar'); if(el) el.dataset.fcInit=''; bindModalClose(); setTimeout(init,80); });
+  bindModalClose();
+  setTimeout(function(){ bindModalClose(); init(); },400);
 })();
 </script>
 
