@@ -14,6 +14,13 @@ configuration:
     - private
     - templates
     - .obsidian
+    - socmed
+    - trip
+    - project
+    - notionscrape
+    - knowledge_bank/instagram_raw
+    - "**/*.mhtml"
+    - "**/*.pdf"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -121,7 +128,7 @@ plugins:
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}
@@ -161,17 +168,17 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
   - source: "@quartz-community/search"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 20
