@@ -1,4 +1,4 @@
-name: Deploy Quartz to GitHub Pages
+name: Deploy Quartz (public + internal)
 
 on:
   push:
@@ -55,3 +55,36 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  build-internal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: quartz/package-lock.json
+
+      - name: Install Quartz dependencies
+        working-directory: quartz
+        run: npm ci
+
+      - name: Sync vault content
+        run: bash scripts/sync-content.sh
+
+      - name: Build internal Quartz (full vault)
+        working-directory: quartz
+        run: |
+          cp quartz.config.internal.yaml quartz.config.yaml
+          node ./quartz/bootstrap-cli.mjs build --output public-internal
+
+      - name: Deploy internal to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy public-internal --project-name=lewagon-digitalbrain

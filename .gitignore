@@ -42,6 +42,7 @@ Thumbs.db
 # Quartz
 quartz/.quartz-cache
 quartz/public
+quartz/public-internal
 
 # Instagram instaloader — session & output (local only, never commit)
 scripts/instagram/session-*
